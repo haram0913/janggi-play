@@ -1,0 +1,20 @@
+{
+  "name": "장기 연습",
+  "short_name": "장기",
+  "description": "오프라인에서 연습하는 모바일 장기 PWA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f2dfbd",
+  "theme_color": "#2b2118",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
